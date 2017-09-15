@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=DectoBin
+PROJECTNAME=basic-C
 
 # Active Configuration
 DEFAULTCONF=Debug

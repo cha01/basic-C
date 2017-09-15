@@ -5,8 +5,8 @@
  */
 
 /* 
- * File:   main.c
- * Author: cmcy0
+ * File:   DectoBin.c
+ * Author: cmcy
  *
  * Created on September 15, 2017, 11:47 AM
  */
